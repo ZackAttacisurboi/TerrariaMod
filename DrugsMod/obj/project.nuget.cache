@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dxOkOZ3Yds0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zacka\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\DrugsMod\\DrugsMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zacka\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

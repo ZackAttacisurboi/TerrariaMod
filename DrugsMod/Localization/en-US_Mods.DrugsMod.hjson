@@ -1,0 +1,27 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	BasicSword: {
+		DisplayName: Basic Sword
+		Tooltip:
+			'''
+			Template of an item
+			Replacing this tooltip is duty 
+			It's snowing on Mt.Fuji
+			'''
+	}
+
+	FentPill: {
+		DisplayName: Fent Pill
+		Tooltip: You can become a fent soldier!
+	}
+
+	FentBuff.DisplayName: Description:
+}
+
+Buffs: {
+	FentBuff: {
+		DisplayName: Fent Powers
+		Description: Max life is halved and can't heal naturally. Defense is increase and movement slowed.
+	}
+}
